@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wh5759e.github.io/cnwebs-aigames-com/sitemap.xml
